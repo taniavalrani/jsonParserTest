@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Robert Kardashian",
+		"id": 0,
+		"spouse_id": 1,
+		"childrens_id": [2, 3, 4, 5]
+	},
+	{
+			"name": "Kris Kardashian",
+			"id": 1,
+			"spouse_id": 0,
+			"childrens_id": []
+	},
+	{
+		"name": "Kourtney Kardashian",
+		"id": 2,
+		"spouse_id": 7,
+		"childrens_id": [8, 9]
+	},
+	{
+		"name": "Kim Kardashian",
+		"id": 3,
+		"spouse_id": 10,
+		"childrens_id": [11, 12]
+	},
+	{
+		"name": "Robert Kardashian",
+		"id": 4,
+		"spouse_id": 13,
+		"childrens_id": []
+	},
+	{
+		"name": "Khloe Kardashian",
+		"id": 5,
+		"spouse_id": 14,
+		"childrens_id": []
+	}
+
+
+]
